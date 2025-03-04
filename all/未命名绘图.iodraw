@@ -49,7 +49,7 @@
         <mxCell id="dpdBwlxc2W9Nxdmsc8tX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dpdBwlxc2W9Nxdmsc8tX-21" target="dpdBwlxc2W9Nxdmsc8tX-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dpdBwlxc2W9Nxdmsc8tX-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dpdBwlxc2W9Nxdmsc8tX-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="588" y="249.5" width="577" height="280.5" as="geometry" />
         </mxCell>
         <mxCell id="dpdBwlxc2W9Nxdmsc8tX-24" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -81,7 +81,7 @@
         <mxCell id="dpdBwlxc2W9Nxdmsc8tX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dpdBwlxc2W9Nxdmsc8tX-25" target="dpdBwlxc2W9Nxdmsc8tX-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dpdBwlxc2W9Nxdmsc8tX-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;事件监控模块&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dpdBwlxc2W9Nxdmsc8tX-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;事件监控模块&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="613" y="359.75" width="144" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dpdBwlxc2W9Nxdmsc8tX-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;结果存储模块&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
