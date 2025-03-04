@@ -43,7 +43,7 @@
         <mxCell id="dpdBwlxc2W9Nxdmsc8tX-11" value="&lt;b&gt;内核态&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dpdBwlxc2W9Nxdmsc8tX-14">
           <mxGeometry x="1.6310452418096817" y="56.470588235294116" width="47.73790951638066" height="23.52941176470588" as="geometry" />
         </mxCell>
-        <mxCell id="dpdBwlxc2W9Nxdmsc8tX-17" value="&lt;b&gt;网络数据包&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dpdBwlxc2W9Nxdmsc8tX-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;网络数据包&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="63.01" y="429" width="79" height="30" as="geometry" />
         </mxCell>
       </root>
