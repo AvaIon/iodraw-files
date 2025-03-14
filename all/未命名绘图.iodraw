@@ -8,22 +8,13 @@
           <mxGeometry x="436.5" y="1139" width="277" height="109" as="geometry" />
         </mxCell>
         <mxCell id="pU8kF3EZgk4uQhIFhaft-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeColor=#006600;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="436.5" y="1000.5" width="277" height="109" as="geometry" />
-        </mxCell>
-        <mxCell id="pU8kF3EZgk4uQhIFhaft-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="pU8kF3EZgk4uQhIFhaft-2" target="pU8kF3EZgk4uQhIFhaft-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="475" y="787" width="277" height="109" as="geometry" />
         </mxCell>
         <mxCell id="pU8kF3EZgk4uQhIFhaft-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;启动&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="877" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pU8kF3EZgk4uQhIFhaft-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="pU8kF3EZgk4uQhIFhaft-3" target="pU8kF3EZgk4uQhIFhaft-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="112" y="1037" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pU8kF3EZgk4uQhIFhaft-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;读取内核数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="1025" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pU8kF3EZgk4uQhIFhaft-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="pU8kF3EZgk4uQhIFhaft-4" target="pU8kF3EZgk4uQhIFhaft-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pU8kF3EZgk4uQhIFhaft-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据解析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="1161" width="120" height="60" as="geometry" />
