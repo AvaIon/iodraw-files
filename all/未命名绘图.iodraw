@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pU8kF3EZgk4uQhIFhaft-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeColor=#FF0000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="436.5" y="1139" width="277" height="109" as="geometry" />
+        </mxCell>
         <mxCell id="pU8kF3EZgk4uQhIFhaft-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeColor=#006600;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="436.5" y="1000.5" width="277" height="109" as="geometry" />
         </mxCell>
@@ -27,9 +30,6 @@
         </mxCell>
         <mxCell id="pU8kF3EZgk4uQhIFhaft-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="1290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pU8kF3EZgk4uQhIFhaft-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeColor=#006600;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="436.5" y="1139" width="277" height="109" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
