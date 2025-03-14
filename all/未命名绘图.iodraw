@@ -131,7 +131,7 @@
           <mxGeometry x="1052" y="287.54" width="158.1" height="59.29" as="geometry" />
         </mxCell>
         <mxCell id="YXrSOJFY7f9so0AeYmDY-33" value="&lt;span style=&quot;font-size: 36px; background-color: rgb(204, 204, 204);&quot;&gt;eBPF&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px; background-color: rgb(204, 204, 204);&quot;&gt;Maps&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="737" y="602.5" width="187" height="155.5" as="geometry" />
+          <mxGeometry x="810" y="602.25" width="187" height="155.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
