@@ -13,8 +13,8 @@
         <mxCell id="pU8kF3EZgk4uQhIFhaft-4" value="数据解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="1161" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pU8kF3EZgk4uQhIFhaft-5" value="数据解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="1274" width="120" height="60" as="geometry" />
+        <mxCell id="pU8kF3EZgk4uQhIFhaft-6" value="启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
