@@ -4,16 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pU8kF3EZgk4uQhIFhaft-2" value="启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pU8kF3EZgk4uQhIFhaft-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;启动&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="892" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pU8kF3EZgk4uQhIFhaft-3" value="读取内核数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pU8kF3EZgk4uQhIFhaft-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;读取内核数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="1025" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pU8kF3EZgk4uQhIFhaft-4" value="数据解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="1161" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pU8kF3EZgk4uQhIFhaft-6" value="启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pU8kF3EZgk4uQhIFhaft-6" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
