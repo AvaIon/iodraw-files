@@ -73,10 +73,10 @@
         <mxCell id="HLAbYKelN5lEyfsIpMak-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;验证&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="369" y="1399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HLAbYKelN5lEyfsIpMak-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;加载&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="HLAbYKelN5lEyfsIpMak-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;加固&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="522" y="1399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HLAbYKelN5lEyfsIpMak-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;加载&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="HLAbYKelN5lEyfsIpMak-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;结束&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="675" y="1399" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
