@@ -94,15 +94,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="206" y="384" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="474" y="384" />
+              <mxPoint x="741" y="388" />
+              <mxPoint x="474" y="388" />
               <mxPoint x="474" y="386" />
               <mxPoint x="162" y="386" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7Fk662Z6ElwDyCCp2qNk-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Fk662Z6ElwDyCCp2qNk-20">
-          <mxGeometry x="-0.0159" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
