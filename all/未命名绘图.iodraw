@@ -42,15 +42,6 @@
         <mxCell id="7Fk662Z6ElwDyCCp2qNk-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;掩码器&lt;/b&gt;&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="696" y="108" width="100" height="553" as="geometry" />
         </mxCell>
-        <mxCell id="7Fk662Z6ElwDyCCp2qNk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="7Fk662Z6ElwDyCCp2qNk-6" source="7Fk662Z6ElwDyCCp2qNk-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-490" y="276" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-222" y="276" />
-              <mxPoint x="-222" y="277" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7Fk662Z6ElwDyCCp2qNk-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="7Fk662Z6ElwDyCCp2qNk-6">
           <mxGeometry x="45" y="201" width="10" height="80" as="geometry" />
         </mxCell>
@@ -97,6 +88,17 @@
         <mxCell id="7Fk662Z6ElwDyCCp2qNk-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;3、PII实体、原始数据&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Fk662Z6ElwDyCCp2qNk-16">
           <mxGeometry x="0.04" relative="1" as="geometry">
             <mxPoint x="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Fk662Z6ElwDyCCp2qNk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7Fk662Z6ElwDyCCp2qNk-19" target="7Fk662Z6ElwDyCCp2qNk-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="206" y="384" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="474" y="384" />
+              <mxPoint x="474" y="385" />
+              <mxPoint x="195" y="385" />
+              <mxPoint x="195" y="451" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
