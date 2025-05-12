@@ -6,13 +6,13 @@
         <mxCell id="1" parent="0" />
         <mxCell id="Md0mQzyFjMtXKW3m5MtQ-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=23;endSize=13.03;endWidth=30;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="420" as="sourcePoint" />
-            <mxPoint x="264" y="416" as="targetPoint" />
+            <mxPoint x="154" y="437" as="sourcePoint" />
+            <mxPoint x="268" y="433" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Md0mQzyFjMtXKW3m5MtQ-2" value="数据输入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="Md0mQzyFjMtXKW3m5MtQ-1">
           <mxGeometry x="-0.1239" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-11" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
