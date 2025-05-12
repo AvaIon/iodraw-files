@@ -10,7 +10,10 @@
         <mxCell id="HQFhL-ZlW1R_F2t8cwZQ-2" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;presidio&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="516" y="504" width="187" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HQFhL-ZlW1R_F2t8cwZQ-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;分析器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HQFhL-ZlW1R_F2t8cwZQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="HQFhL-ZlW1R_F2t8cwZQ-4" target="HQFhL-ZlW1R_F2t8cwZQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQFhL-ZlW1R_F2t8cwZQ-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;分析器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="677" y="1017" width="163" height="85" as="geometry" />
         </mxCell>
         <mxCell id="HQFhL-ZlW1R_F2t8cwZQ-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;掩码器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
