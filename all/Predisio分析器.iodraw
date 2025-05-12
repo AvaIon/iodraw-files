@@ -15,16 +15,8 @@
             <mxPoint x="-2" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md0mQzyFjMtXKW3m5MtQ-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=47;endSize=15.73;endWidth=30;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="163" y="462" as="sourcePoint" />
-            <mxPoint x="277" y="458" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Md0mQzyFjMtXKW3m5MtQ-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;数据输入&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="Md0mQzyFjMtXKW3m5MtQ-4">
-          <mxGeometry x="-0.1239" y="-2" relative="1" as="geometry">
-            <mxPoint x="-2" y="-3" as="offset" />
-          </mxGeometry>
+        <mxCell id="Md0mQzyFjMtXKW3m5MtQ-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="306" y="288" width="341" height="341" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
