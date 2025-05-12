@@ -4,8 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7Fk662Z6ElwDyCCp2qNk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7Fk662Z6ElwDyCCp2qNk-1" target="7Fk662Z6ElwDyCCp2qNk-3">
+        <mxCell id="7Fk662Z6ElwDyCCp2qNk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7Fk662Z6ElwDyCCp2qNk-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="222" as="targetPoint" />
             <Array as="points">
               <mxPoint x="315" y="222" />
               <mxPoint x="315" y="222" />
@@ -27,7 +28,7 @@
           <mxGeometry x="296" y="110" width="100" height="553" as="geometry" />
         </mxCell>
         <mxCell id="7Fk662Z6ElwDyCCp2qNk-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="7Fk662Z6ElwDyCCp2qNk-3">
-          <mxGeometry x="73" y="109" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="110" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7Fk662Z6ElwDyCCp2qNk-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;已脱敏数据&lt;/font&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="549" width="132" height="79" as="geometry" />
