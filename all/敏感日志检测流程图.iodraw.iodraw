@@ -136,7 +136,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2SIC-DyUpmi0B37NMIfv-46" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="2SIC-DyUpmi0B37NMIfv-46" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="773.71" y="621" width="44" height="89" as="geometry" />
         </mxCell>
       </root>
