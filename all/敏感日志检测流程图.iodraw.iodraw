@@ -129,7 +129,7 @@
           <mxGeometry x="356.5" y="1237" width="180" height="79" as="geometry" />
         </mxCell>
         <mxCell id="2SIC-DyUpmi0B37NMIfv-46" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="762" y="631" width="30" height="60" as="geometry" />
+          <mxGeometry x="771" y="619" width="44" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
