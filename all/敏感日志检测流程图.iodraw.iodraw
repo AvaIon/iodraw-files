@@ -175,7 +175,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2SIC-DyUpmi0B37NMIfv-51" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;验证集择优&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="2SIC-DyUpmi0B37NMIfv-51" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;验证集择优模型&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="473.5" y="1392" width="165" height="80" as="geometry" />
         </mxCell>
       </root>
