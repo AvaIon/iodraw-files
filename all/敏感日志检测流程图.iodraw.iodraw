@@ -81,6 +81,9 @@
         <mxCell id="2SIC-DyUpmi0B37NMIfv-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;模型识别类型&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="669" y="832" width="165" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="2SIC-DyUpmi0B37NMIfv-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;分词分类&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1057" y="711.45" width="165" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
