@@ -145,8 +145,14 @@
         <mxCell id="olZ25xwTNcnKTjZbbDFb-91" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;生成模板&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="903.77" y="1212" width="165" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="olZ25xwTNcnKTjZbbDFb-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="olZ25xwTNcnKTjZbbDFb-93" target="olZ25xwTNcnKTjZbbDFb-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="olZ25xwTNcnKTjZbbDFb-93" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;相似度分析计算&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="669.6899999999999" y="1212" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="olZ25xwTNcnKTjZbbDFb-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="olZ25xwTNcnKTjZbbDFb-95" target="olZ25xwTNcnKTjZbbDFb-93">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="olZ25xwTNcnKTjZbbDFb-95" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;解析日志数据&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430.27" y="1212" width="165" height="80" as="geometry" />
