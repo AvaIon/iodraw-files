@@ -13,11 +13,6 @@
         <mxCell id="olZ25xwTNcnKTjZbbDFb-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="76" y="-396" width="1320" height="226" as="geometry" />
         </mxCell>
-        <mxCell id="olZ25xwTNcnKTjZbbDFb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" target="olZ25xwTNcnKTjZbbDFb-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1013.5" y="-148" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="olZ25xwTNcnKTjZbbDFb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="olZ25xwTNcnKTjZbbDFb-15" target="olZ25xwTNcnKTjZbbDFb-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
