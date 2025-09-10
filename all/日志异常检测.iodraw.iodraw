@@ -136,7 +136,7 @@
           <mxGeometry x="159.00000000000006" y="-715" width="145.39" height="73" as="geometry" />
         </mxCell>
         <mxCell id="Jfr5oHHMbeuSIMZT8NDn-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;基础组件日志Topic&lt;/b&gt;&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="76" y="-759" width="302.31" height="89" as="geometry" />
+          <mxGeometry x="164.69" y="-798" width="277.31" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
