@@ -174,8 +174,11 @@
             <mxPoint x="657" y="-848" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jfr5oHHMbeuSIMZT8NDn-13" value="内存队列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jfr5oHHMbeuSIMZT8NDn-13" value="&lt;b&gt;内存队列&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="585" y="-913" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jfr5oHHMbeuSIMZT8NDn-14" value="&lt;b&gt;内存队列&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="-903" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
