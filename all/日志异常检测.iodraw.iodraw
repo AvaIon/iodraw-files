@@ -178,7 +178,25 @@
           <mxGeometry x="585" y="-913" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jfr5oHHMbeuSIMZT8NDn-14" value="&lt;b&gt;mongodb log&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="585" y="-880" width="91" height="33" as="geometry" />
+          <mxGeometry x="569.5" y="-881" width="91" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Jfr5oHHMbeuSIMZT8NDn-15" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="585" y="-873" as="sourcePoint" />
+            <mxPoint x="667" y="-873" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jfr5oHHMbeuSIMZT8NDn-16" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="585" y="-838" as="sourcePoint" />
+            <mxPoint x="667" y="-838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jfr5oHHMbeuSIMZT8NDn-17" value="&lt;b&gt;内存队列&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="-903" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jfr5oHHMbeuSIMZT8NDn-18" value="&lt;b&gt;mongodb log&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="579.5" y="-871" width="91" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
