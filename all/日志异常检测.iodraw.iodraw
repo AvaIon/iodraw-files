@@ -211,9 +211,6 @@
         <mxCell id="Jfr5oHHMbeuSIMZT8NDn-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;内存队列&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="D6WJjRQSn4a3ecDCXEzc-10" vertex="1">
           <mxGeometry x="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D6WJjRQSn4a3ecDCXEzc-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Log&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="D6WJjRQSn4a3ecDCXEzc-10">
-          <mxGeometry x="16.960000000000036" y="31" width="44" height="29" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
