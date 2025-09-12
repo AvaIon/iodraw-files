@@ -194,7 +194,7 @@
           <mxGeometry x="586" y="-1367" width="137" height="56" as="geometry" />
         </mxCell>
         <mxCell id="D6WJjRQSn4a3ecDCXEzc-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="508.5" y="-1248" width="111.5" height="106" as="geometry" />
+          <mxGeometry x="506" y="-1261" width="111.5" height="106" as="geometry" />
         </mxCell>
         <mxCell id="Jfr5oHHMbeuSIMZT8NDn-11" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;dashed=1;" parent="D6WJjRQSn4a3ecDCXEzc-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -210,6 +210,9 @@
         </mxCell>
         <mxCell id="Jfr5oHHMbeuSIMZT8NDn-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;内存队列&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="D6WJjRQSn4a3ecDCXEzc-10" vertex="1">
           <mxGeometry x="13.597560975609756" width="81.58536585365854" height="48.92307692307692" as="geometry" />
+        </mxCell>
+        <mxCell id="D6WJjRQSn4a3ecDCXEzc-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="543" y="-1195" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
