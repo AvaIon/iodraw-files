@@ -349,6 +349,9 @@
         <mxCell id="2VKrcQu1BBMLEiX6F9gM-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;AWS S3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="876.25" y="-1166" width="67" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="2VKrcQu1BBMLEiX6F9gM-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="288" y="-1414" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
