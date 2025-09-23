@@ -309,7 +309,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2VKrcQu1BBMLEiX6F9gM-12" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;基础组件日志Topic&lt;/b&gt;&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="331" y="-1517" width="258.78" height="58" as="geometry" />
+          <mxGeometry x="320.91" y="-1381" width="258.78" height="58" as="geometry" />
         </mxCell>
         <mxCell id="2VKrcQu1BBMLEiX6F9gM-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
