@@ -16,7 +16,7 @@
         <mxCell id="IRkEBdqr6Wp3Sj3suZGW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IRkEBdqr6Wp3Sj3suZGW-2" target="IRkEBdqr6Wp3Sj3suZGW-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IRkEBdqr6Wp3Sj3suZGW-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;时间中心&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IRkEBdqr6Wp3Sj3suZGW-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;事件中心&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="451" y="669" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IRkEBdqr6Wp3Sj3suZGW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IRkEBdqr6Wp3Sj3suZGW-3" edge="1">
